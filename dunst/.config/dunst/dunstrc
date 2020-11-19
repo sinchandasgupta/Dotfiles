@@ -18,7 +18,7 @@ sort = yes
 idle_threshold = 120
 
 ### Text ###
-font = San Francisco Display 8
+font = San Francisco Display 10 
 line_height = 1
 markup = full
 format = "<b>%s</b>\n%b"
@@ -53,17 +53,17 @@ close_all = ctrl+shift+space
 history = ctrl+grave
 
 [urgency_low]
-background = "#0F111A"
+background = "#2E3440"
 foreground = "#a4a4a4"
 timeout = 5
 
 [urgency_normal]
-background = "#0F111A"
+background = "#2E3440"
 foreground = "#a4a4a4"
 timeout = 5
 
 [urgency_critical]
-background = "#0F111A"
+background = "#2E3440"
 foreground = "#a4a4a4"
 frame_color = "#a4a4a4"
 timeout = 10

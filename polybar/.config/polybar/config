@@ -4,9 +4,9 @@
 
 [color]
 ;; Active Colors
-bground = #0f111a
+bground = #2e3440
 fground = #ffffff
-accent = #ff4151
+accent = #81a1c1
 
 ;; Material Colors
 red = #e53935
@@ -55,7 +55,7 @@ pseudo-transparency = false
 
 [bar/onsie]
 
-monitor = eDP
+monitor = HDMI-0
 monitor-strict = false
 override-redirect = true
 wm-restack = bspwm
@@ -219,4 +219,4 @@ click-middle = polypomo lock
 scroll-up = polypomo time +60
 scroll-down = polypomo time -60
 
-/* vim:ft=dosini
+#/* vim:ft=dosini
