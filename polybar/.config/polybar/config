@@ -55,7 +55,7 @@ pseudo-transparency = false
 
 [bar/onsie]
 
-monitor = eDP
+monitor = HDMI-0 
 monitor-strict = false
 override-redirect = true
 wm-restack = bspwm
@@ -219,4 +219,3 @@ click-middle = polypomo lock
 scroll-up = polypomo time +60
 scroll-down = polypomo time -60
 
-/* vim:ft=dosini
