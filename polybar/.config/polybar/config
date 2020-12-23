@@ -49,7 +49,7 @@ module-margin-right = 1
 
 [bar/workspaces]
 inherit = bar/main
-width = 14.65%
+width = 14.75%
 offset-x = 5
 modules-left = workspaces
 
@@ -57,7 +57,8 @@ modules-left = workspaces
 inherit = bar/main
 width = 18.65%
 offset-x = 81%
-modules-right = battery bluetooth network date
+modules-right = date
+modules-center = playing
 
 [bar/playing]
 inherit = bar/main
